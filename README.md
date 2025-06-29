@@ -3,7 +3,7 @@
 This project is a **portable and cost-effective health monitoring system** designed to measure and display three vital signs:
 -  Heart rate using a Pulse Sensor
 -  Body temperature using DS18B20
--  Blood oxygen (SpO₂) using MAX30102
+-  Blood oxygen (SpO₂) using MAX30100
 
 It was developed as a **group mini-project** as part of a course.
 
@@ -22,7 +22,7 @@ To build a basic yet effective health monitoring system using Arduino that displ
 | Arduino UNO                       | Microcontroller                      |
 | Pulse Sensor                      | Measures heart rate (BPM)            |
 | DS18B20 Digital Temperature Sensor| Measures body temperature (°C, °F)   |
-| MAX30102 Pulse Oximeter           | Measures SpO₂                        |
+| MAX30100 Pulse Oximeter           | Measures SpO₂                        |
 | 16x2 LCD Display + I2C module     | Displays live data                   |
 | Breadboard, jumper wires, resistors| Circuit connection                   |
 
